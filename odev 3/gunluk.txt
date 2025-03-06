@@ -1,0 +1,5 @@
+10
+23
+cıkıs
+/usr/local/bin/python3 "/Users/ebrukarakas/Desktop/Veri Bilimi/odev 3/kullanici_bilgileri.py"
+/usr/local/bin/python3 "/Users/ebrukarakas/Desktop/Veri Bilimi/odev 3/kullanici_bilgileri.py"
